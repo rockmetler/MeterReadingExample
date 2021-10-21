@@ -1,0 +1,12 @@
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\bin\Debug\net5.0\ProductContracts.deps.json
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\bin\Debug\net5.0\ProductContracts.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\bin\Debug\net5.0\ref\ProductContracts.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\bin\Debug\net5.0\ProductContracts.pdb
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\obj\Debug\net5.0\ProductContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\obj\Debug\net5.0\ProductContracts.AssemblyInfoInputs.cache
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\obj\Debug\net5.0\ProductContracts.AssemblyInfo.cs
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\obj\Debug\net5.0\ProductContracts.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\obj\Debug\net5.0\ProductContracts.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\obj\Debug\net5.0\ref\ProductContracts.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\obj\Debug\net5.0\ProductContracts.pdb
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductContracts\obj\Debug\net5.0\ProductContracts.csprojAssemblyReference.cache

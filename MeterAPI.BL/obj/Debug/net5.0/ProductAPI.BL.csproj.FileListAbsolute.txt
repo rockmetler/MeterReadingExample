@@ -1,0 +1,17 @@
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\bin\Debug\net5.0\ProductAPI.BL.deps.json
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\bin\Debug\net5.0\ProductAPI.BL.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\bin\Debug\net5.0\ref\ProductAPI.BL.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\bin\Debug\net5.0\ProductAPI.BL.pdb
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\bin\Debug\net5.0\ProductAPI.DAL.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\bin\Debug\net5.0\ProductContracts.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\bin\Debug\net5.0\ProductAPI.DAL.pdb
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\bin\Debug\net5.0\ProductContracts.pdb
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ProductAPI.BL.csprojAssemblyReference.cache
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ProductAPI.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ProductAPI.BL.AssemblyInfoInputs.cache
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ProductAPI.BL.AssemblyInfo.cs
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ProductAPI.BL.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ProductAPI.BL.csproj.CopyComplete
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ProductAPI.BL.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ref\ProductAPI.BL.dll
+C:\Users\rockm\source\repos\LampsRUs-ProductAPI\ProductAPI.BL\obj\Debug\net5.0\ProductAPI.BL.pdb

@@ -1,0 +1,12 @@
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\bin\Debug\net5.0\MeterContracts.deps.json
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\bin\Debug\net5.0\MeterContracts.dll
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\bin\Debug\net5.0\ref\MeterContracts.dll
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\bin\Debug\net5.0\MeterContracts.pdb
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\obj\Debug\net5.0\MeterContracts.csprojAssemblyReference.cache
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\obj\Debug\net5.0\MeterContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\obj\Debug\net5.0\MeterContracts.AssemblyInfoInputs.cache
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\obj\Debug\net5.0\MeterContracts.AssemblyInfo.cs
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\obj\Debug\net5.0\MeterContracts.csproj.CoreCompileInputs.cache
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\obj\Debug\net5.0\MeterContracts.dll
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\obj\Debug\net5.0\ref\MeterContracts.dll
+C:\Users\rockm\Downloads\D55 Software Engineer Tech Test Pack 250521 2021 (1)\MeterContracts\obj\Debug\net5.0\MeterContracts.pdb
